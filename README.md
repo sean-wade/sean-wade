@@ -1,3 +1,3 @@
 <div align="center">
-  <p>Hi, I'm Sean, an autonomous driving perception developer from NanJing, China.</p>
+  <p>Hi, I'm Sean, an algorithm engineer from NanJing, China.</p>
 </div>

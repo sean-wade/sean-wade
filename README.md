@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center"> <img src="http://t.eryajf.net/imgs/2022/07/b67354a1cd3df47e.png"> </div>

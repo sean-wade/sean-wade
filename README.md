@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <p>Hi, I'm Sean, an algorithm engineer from NanJing, China.</p>
 </div>
 

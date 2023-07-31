@@ -1,5 +1,7 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-
 <div align="center">
   <p>Hi, I'm Sean, an algorithm engineer from NanJing, China.</p>
 </div>
+
+
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />

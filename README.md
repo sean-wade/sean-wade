@@ -1,5 +1,5 @@
 <div align="left">
-  <p>Hi, I'm Sean, an algorithm engineer from NanJing, China.</p>
+  <p>Hi, I'm Sean, an algorithm engineer from your planet.</p>
 </div>
 
 
